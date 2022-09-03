@@ -1,0 +1,16 @@
+.c1{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+}
+.c2{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+.c3{
+    text-align: center;
+}
